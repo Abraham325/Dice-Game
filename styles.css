@@ -10,6 +10,31 @@
 
 }
 
+.button {
+  background-color: green;
+  border: none;
+  border-radius: 360px;
+  text-align: center;
+  margin: 50px auto;
+  width: 7%;
+ }
+
+.button:hover {
+  background-color: #145a14;
+}
+
+#btn{
+  background-color: green;
+  border: none;
+  border-radius: 360px;
+  font-size: 41px;
+}
+
+#btn:hover {
+  background-color: #145a14;
+}
+
+
 body {
   background-color: #393E46;
 }
